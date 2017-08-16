@@ -1,0 +1,6 @@
+rootProject.name = 'nibiruHardware'
+
+include ':org.nibiru.hardware.android'
+include ':org.nibiru.hardware.core'
+include ':org.nibiru.hardware.gwt'
+include ':org.nibiru.hardware.ios'
