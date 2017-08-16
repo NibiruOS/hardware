@@ -1,1 +1,1 @@
-# hardware
+# Hardware abstraction layer for mobile
